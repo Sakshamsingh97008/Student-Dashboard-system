@@ -1,8 +1,8 @@
-# React Admin Teacher Dashboard
+# React Admin Student  Dashboard
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-The Student-Teacher Admin Dashboard is a robust web application built with React, Redux, and Material-UI (MUI). It serves as a comprehensive solution for managing classes from 1 to 10 in a school, providing distinct levels of access for administrators, teachers, and students.
+The Student-Admin Dashboard is a robust web application built with React, Redux, and Material-UI (MUI). It serves as a comprehensive solution for managing classes from 1 to 10 in a school, providing distinct levels of access for administrators, teachers, and students.
 🎓 Student Dashboard System
 
 A modern and responsive Student Dashboard built to help students track their academic progress, attendance, performance, and activities in one place.
